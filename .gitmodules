@@ -1,0 +1,3 @@
+[submodule "components/golioth-firmware-sdk"]
+	path = components/golioth-firmware-sdk
+	url = https://github.com/golioth/golioth-firmware-sdk.git
